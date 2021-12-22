@@ -1,4 +1,4 @@
-# parser of VK photo albums
+# Parser of VK photo albums
 
 This application provides u to download photo albums from user's page or communities of VK without using the API.
 
